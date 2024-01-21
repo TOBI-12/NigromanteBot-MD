@@ -93,4 +93,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ##### AGRADECIMIENTO ESPECIAL PARA
-<!--[![diegojadibot](https://github.com/diegojadibot.png?size=100)](https://github.com/diegojadibot)|
+<!--[![diegojadibot](https://github.com/diegojadibot.png?size=100)](https://github.com/diegojadibot)

@@ -44,19 +44,14 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 [![blog](https://img.shields.io/badge/Instalacion-Manual-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/qRb9ElGT8mM?si=XxSt-Y8CTQs1Imzl?feature=share)
 > **Nota:** ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-termux-setup-storage
-bash
-apt-get update -y && apt-get upgrade -y
-bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-bash
-git clone https://github.com/Sinombre913/NigromanteBot-MD && cd NigromanteBot-MD && yarn install && npm install
-bash
-ls
-bash
-npm update
-bash
-npm start
+>termux-setup-storage
+>apt-get update -y && apt-get upgrade -y
+>pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+>git clone https://github.com/Sinombre913/NigromanteBot-MD && cd NigromanteBot-MD && yarn install && npm install
+>ls
+>bash
+>npm update
+>npm start
 ```
 ***
 

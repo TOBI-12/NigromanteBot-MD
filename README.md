@@ -1,5 +1,5 @@
 ## NIGROMANTEBOT
-> <p>  🚀 Bot (1.0.9) </b>
+> <p>  🚀 Bot (3.0.5) </b>
 
 > <b> ✨️Hola, Soy NigromanteBot Como Estas?❤️
 <p align="center">      

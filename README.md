@@ -1,15 +1,11 @@
-## NigromanteBot-MD ✨
+## SakuraBotLite-MD✨️ ##
+> <p>  🚀 SakuraBot (Desarrollo) </b>
 
-<p align="center">
-alt="NigromanteBot-MD" width="900"/>
+> <b> ✨️Hola, Soy NigromanteBot Como Estas?❤️
+<p align="center">      
+<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A1F733&width=435&lines=✨️NigromanteBot-MD🦁;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
-
-<a href="https://github.com/sinombre913/NigromanteBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/sinombre913/NigromanteBot-MDcolor=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sinombre913/NigromanteBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sinombre913/NigromanteBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
-
-<img
-src="https://telegra.ph/file/1e2929145ef160e288c1c.jpg" width="400" height="230"/>
+<img src="https://telegra.ph/file/1e2929145ef160e288c1c.jpg" width="400" height="230"/>
 </p>
 <a href="https://youtube.com/@NigromanteBot-MD?si=KaTgJs-AV-mSZl8t">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">

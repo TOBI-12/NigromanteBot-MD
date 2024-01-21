@@ -23,14 +23,6 @@ En caso de duda, antes de instalar NigromanteBot-MD, pruebe el bot aquí
 
 ***
 
-### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Sinombre913/NigromanteBot-MD/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/sinombre913/NigromanteBot-MD/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/sinombre913/NigromanteBot-MD/blob/main/package.json#L42)
-***
-
-#### INSTALACIÓN AUTOMÁTICA POR TERMUX
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/smoWgg28wPk?si=ck-t9tvKrJQ0yZbS?feature=share)
 
 > **Nota:** Comandos para instalar de forma automática en Termux  
 ```bash
@@ -39,22 +31,6 @@ termux-setup-storage
 ```bash
 apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Sinombre913/NigromanteBot-MD/master/nigromante.sh | bash
 ```
-
-#### ACTIVAR EN TERMUX
-[![blog](https://img.shields.io/badge/Instalacion-Manual-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/qRb9ElGT8mM?si=XxSt-Y8CTQs1Imzl?feature=share)
-> **Nota:** ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
->termux-setup-storage
->apt-get update -y && apt-get upgrade -y
->pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
->git clone https://github.com/Sinombre913/NigromanteBot-MD && cd NigromanteBot-MD && yarn install && npm install
->ls
->bash
->npm update
->npm start
-```
-***
-
 ### `OBTENER OTRO CODIGO QR`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:

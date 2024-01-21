@@ -45,28 +45,17 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 > **Nota:** ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 termux-setup-storage
-```
-
-```bash
+bash
 apt-get update -y && apt-get upgrade -y
-```
-
-```bash
+bash
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-```
-
-```bash
+bash
 git clone https://github.com/Sinombre913/NigromanteBot-MD && cd NigromanteBot-MD && yarn install && npm install
-```
-
-```bash
+bash
 ls
-```
-```bash
+bash
 npm update
-```
-
-```bash
+bash
 npm start
 ```
 ***
@@ -78,10 +67,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf sessions
 > npm start
 ```
-
-### 🌟 DESARROLLADORES
-<a href="https://github.com/diegojadibot/SakuraBotLite-MD/graphs/contributors">
-<img
 
 ### 🌟 AGRADECIMIENTOS
 [![diegojadibot](https://github.com/diegojadibot.png?size=60)](https://github.com/diegojadibot) 

@@ -8,6 +8,7 @@ alt="NigromanteBot-MD" width="900"/>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sinombre913/NigromanteBot-MD?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sinombre913/NigromanteBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
+<img
 src="https://telegra.ph/file/1e2929145ef160e288c1c.jpg" width="400" height="230"/>
 </p>
 <a href="https://youtube.com/@NigromanteBot-MD?si=KaTgJs-AV-mSZl8t">

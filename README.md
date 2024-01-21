@@ -79,18 +79,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### EDITOR & PROPIETARIO DEL BOT
-<a href="https://github.com/sinombre913"><img src="https://github.com/sinombre913.png" width="250" height="250" alt="Azami19"/></a>
-
-#### COLABORADORES 
-<a href="https://github.com/sinombre913/NigromanteBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=sinombre913/NigromanteBot-MD" /> 
+### 🌟 DESARROLLADORES
+<a href="https://github.com/diegojadibot/SakuraBotLite-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=diegojadibot/SakuraBotLite-MD" /> 
 </a>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+### 🌟 AGRADECIMIENTOS
+[![diegojadibot](https://github.com/diegojadibot.png?size=60)](https://github.com/diegojadibot) 
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-##### AGRADECIMIENTO ESPECIAL PARA
-<!--[![diegojadibot](https://github.com/diegojadibot.png?size=100)](https://github.com/diegojadibot)
+### 🌟 CREADOR 
+[![sinombre913](https://github.com/sinombre913.png?size=100)](https://github.com/sinombre913) 
+> Copyright (c) 2024 **[sinombre913](https://github.com/sinombre913/NigromanteBot-MD/blob/master/LICENSE)**.

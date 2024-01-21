@@ -81,8 +81,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 DESARROLLADORES
 <a href="https://github.com/diegojadibot/SakuraBotLite-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=diegojadibot/SakuraBotLite-MD" /> 
-</a>
+<img
 
 ### 🌟 AGRADECIMIENTOS
 [![diegojadibot](https://github.com/diegojadibot.png?size=60)](https://github.com/diegojadibot) 

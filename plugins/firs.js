@@ -13,12 +13,6 @@ await m.reply(`🌟 *Hola ${username}, Bienvenido A NigromanteBot-MD* 🏻🖤
 📌 *Cualquier Duda O Sugerencia Puedes Contactar A Mi Creador:* 🖤
 📩 wa.me/5213331199136 📭🖤💀🖤
 
-💀🖤 *Si desea apoyar el proyecto NigromanteBot-MD Puedes Recomendar Mi Bot 🖤💀
-
-nuestras actuaciones son:
-1-: añadimiento del .follar
-2-: cambios en los menus
-3-: solucion al error .serbot solo dispone con qr no ay code
-4-: añadimiento del .claim`) 
+💀🖤 *Si desea apoyar el proyecto NigromanteBot-MD Puedes Recomendar Mi Bot 🖤💀*`) 
 user.pc = new Date * 1
 }

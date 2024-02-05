@@ -16,14 +16,14 @@ global.suittag = ['5213331199136']
 global.mods = []
 global.prems = []
 
-global.packname = '© NigromanteBot'
-global.author = 'Created By nigromante'
-global.wm = '© NigromanteBot-MD'
-global.wm2 = 'Nigromante : B𝗈𝗍'
-global.azami = 'sinombre913'
-global.cb = 'NigromanteBot-MD'
+global.packname = '𝐍𝐢𝐠𝐫𝐨𝐦𝐚𝐧𝐭𝐞𝐁𝐨𝐭-𝐌𝐃✨'
+global.author = '𝙾𝚆𝙽𝙴𝚁 - 𝙲𝚁𝙴𝙰𝙳𝙾𝚁'
+global.wm = '𝙽𝙸𝙶𝚁𝙾𝙼𝙰𝙽𝚃𝙴𝙱𝙾𝚃-𝙼𝙳 🌱'
+global.wm2 = 'ℕ𝕚𝕘𝕣𝕠𝕞𝕒𝕟𝕥𝕖 - 𝔹𝕠𝕥 🍁'
+global.azami = '𝙱𝚈: 𝚂𝚃𝙰𝙵𝙵'
+global.cb = 'NɪɢʀᴏᴍᴀɴᴛᴇBᴏᴛ-MD 🐺'
 
-global.vs = 'V2 • 1.0.5'
+global.vs = 'V2 • 0.2.1'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'

@@ -1,4 +1,4 @@
-//CÓDIGO ADAPTADO POR https://github.com/GataNina-Li | @gata_dios & https://github.com/AzamiJs | @Azami
+//CÓDIGO ADAPTADO POR https://github.com/diegojadibor | @diego_oficial & https://github.com/AzamiJs | @Azami
 
 import fs from 'fs'
 import fetch from 'node-fetch'

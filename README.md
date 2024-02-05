@@ -33,3 +33,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > rm -rf TermuxSession.eliminar
 > npm start
+
+//+57 310 7133321
+//https://whatsapp.com/channel/0029VaHdt8oJENxtNExL8z2n
+//handler.register = true

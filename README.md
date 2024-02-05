@@ -5,3 +5,12 @@
 
 𝙴𝚂𝚃𝙴 𝙱𝙾𝚃 𝙵𝚄𝙴 𝙷𝙴𝙲𝙷𝙾 𝙿𝙾𝚁: 𝚂𝙸𝙽𝙽𝙾𝙼𝙱𝚁𝙴 & 𝙳𝙸𝙴𝙶𝙾𝙹𝙰𝙳𝙸𝙱𝙾𝚃 ⚓
 ```
+
+### `✵ 🌻Instalacion...✨`
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/sakura.sh | bash
+```

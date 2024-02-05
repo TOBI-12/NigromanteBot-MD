@@ -36,4 +36,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 //+57 310 7133321
 //https://whatsapp.com/channel/0029VaHdt8oJENxtNExL8z2n
-//handler.register = true
+
+> +57 310 7133321

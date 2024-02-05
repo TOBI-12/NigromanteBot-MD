@@ -4,47 +4,47 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-'info': 'I N F O R M A C I Ó N ',
-'grupo': 'G R U P O S',
-'juegos': 'J U E G O S',
-'descargas': ' D E S C A R G A S',
-'jadibot': 'J A D I B O T', 
-'nable': 'E N A B L E / D I S A B L E', 
-'internet': 'B U S C A D O R E S',
-'transformador': 'C O N V E R T I D O R E S', 
-'sticker': 'S T I C K E R',
-'rg': 'R P G',
-'audio': 'A U D I O S   E F E C T O S', 
-'implementos': 'H E R R A M I E N T A S', 
-'anime': 'A N I M E', 
-'nsfw': 'N S F W +18', 
-'owner': 'O W N E R',
-'ai': 'I A',
+'info': '𝐈 𝐍 𝐅 𝐎',
+'grupo': '𝐆 𝐑 𝐔 𝐏 𝐎 𝐒',
+'juegos': '𝐕 𝐈 𝐃 𝐄 𝐎 𝐉 𝐔 𝐄 𝐆 𝐎 𝐒',
+'descargas': '𝐃 𝐄 𝐒 𝐂 𝐀 𝐑 𝐆 𝐀 𝐒',
+'jadibot': '𝐒 𝐄 𝐑 𝐁 𝐎 𝐓', 
+'nable': '𝐎 𝐍  -  𝐎 𝐅 𝐅', 
+'internet': '𝐁 𝐔 𝐒 𝐂 𝐀 𝐃 𝐎 𝐑 𝐄 𝐒',
+'transformador': '𝐂 𝐎 𝐍 𝐕 𝐄 𝐑 𝐓 𝐈 𝐃 𝐎 𝐑 𝐄 𝐒', 
+'sticker': '𝐂 𝐎 𝐌 𝐀 𝐍 𝐃 𝐎 .𝐒',
+'rg': '𝐑 𝐏 𝐆',
+'audio': '𝐀 𝐔 𝐃 𝐈 𝐎 𝐒 - 𝐄 𝐅 𝐄 𝐂 𝐓 𝐎 𝐒', 
+'implementos': '𝐇 𝐄 𝐑 𝐑 𝐀 𝐌 𝐈 𝐄 𝐍 𝐓 𝐀 𝐒', 
+'anime': '𝐀 𝐍 𝐈 𝐌 𝐄', 
+'nsfw': '𝐌 𝐀 𝐘 𝐎 𝐑 𝐄 𝐒', 
+'owner': '𝐎 𝐖 𝐍 𝐄 𝐑',
+'ai': '𝐒 𝐈 𝐌 𝐈',
 }
 const defaultMenu = {
 before: `╭━━━〔 U S U A R I O 〕━━━◉
 ┃╭──────────────
-┃┃ *Nombre:* %name
-┃┃ *Limite:* %diamond
-┃┃ *Nivel:* %level
-┃┃ *Rango:* %role
-┃┃ *Exp:* %exp
+┃┃ *𝐍𝐨𝐦𝐛𝐫𝐞:* %name
+┃┃ *𝐃𝐢𝐚𝐦𝐚𝐧𝐭𝐞:* %diamond
+┃┃ *𝐋𝐞𝐯𝐞𝐥:* %level
+┃┃ *𝐑𝐚𝐧𝐠𝐨:* 𝙶𝚁𝙰𝙽 𝙼𝙰𝙴𝚂𝚃𝚁𝙾
+┃┃ *𝐄𝐱𝐩:* %exp
 ┃╰──────────────
 ├━━━━━━━━━━━━━━━◉
 ┃
 ├━━━〔 I N F O 〕━━━◉
 ┃╭──────────────
-┃┃ *Creador:* Sinombre913
-┃┃ *whats* wa.me/5213331199136
-┃┃ *soporte* wa.me/5213329445573
-┃┃ *Tiempo Activo:* %muptime
-┃┃ *Registrados:* %rtotalreg de %totalreg usuarios
+┃┃ *𝐎𝐰𝐧𝐞𝐫:* Sinombre913
+┃┃ *𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩* wa.me/5213331199136
+┃┃ *𝐒𝐨𝐩𝐨𝐫𝐭𝐞* wa.me/5213329445573
+┃┃ *𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭𝐢𝐯𝐨:* %muptime
+┃┃ *𝐔𝐬𝐮𝐬𝐚𝐫𝐢𝐨𝐬:* %rtotalreg de %totalreg usuarios
 ┃╰────────────── 
 ├━━━━━━━━━━━━━━━◉
 ┃
 ├━━━〔 H O Y 〕━━━◉
 ┃╭──────────────
-┃┃ *Fecha:* %date
+┃┃ *𝐃𝐢𝐚:* 𝙷𝙾𝚈
 ┃╰──────────────
 ╰━━━━━━━━━━━━━━◉
 %readmore`.trimStart(),

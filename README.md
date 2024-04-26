@@ -7,6 +7,8 @@
 𝐍𝐢𝐠𝐫𝐨𝐦𝐚𝐧𝐭𝐞 𝐁𝐨𝐭 - 𝐌𝐃 🌼
 <img src="https://qu.ax/bwBW.jpg" width="250" height="250" alt="sinombre913"/></a>
 
+Yo sinombre913 Me Retiro De Los Bots, EL Bot Queda Como Recuerdo Y Si Hay Próximas Actuaciones Quedan En Manos Del Colaborador Diegojadibot 
+
 
 ```bash
 𝑩𝒐𝒕 𝑺𝒊𝒎𝒑𝒍𝒆 𝑪𝒐𝒎𝒂𝒏𝒅𝒐 𝑷𝒆𝒓𝒐 𝑫𝒊𝒗𝒆𝒓𝒕𝒊𝒅𝒐 ✨
